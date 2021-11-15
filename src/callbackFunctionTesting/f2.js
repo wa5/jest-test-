@@ -1,0 +1,1 @@
+var data=require('./f1.js')
